@@ -1,0 +1,1 @@
+# ragnarok-data-scraper
