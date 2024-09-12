@@ -1,0 +1,541 @@
+,image_reference,mob_id,name,level,race,property,size
+0,images\mobs\1001.gif,1001,Scorpion,24,Insect,Fire 1,Small
+1,images\mobs\1002.gif,1002,Poring,1,Plant,Water 1,Medium
+2,images\mobs\1004.gif,1004,Hornet,8,Insect,Wind 1,Small
+3,images\mobs\1005.gif,1005,Familiar,8,Brute,Shadow 1,Small
+4,images\mobs\1007.gif,1007,Fabre,2,Insect,Earth 1,Small
+5,images\mobs\1008.gif,1008,Pupa,2,Insect,Earth 1,Small
+6,images\mobs\1009.gif,1009,Condor,5,Brute,Wind 1,Medium
+7,images\mobs\1010.gif,1010,Willow,4,Plant,Earth 1,Medium
+8,images\mobs\1011.gif,1011,Chonchon,4,Insect,Wind 1,Small
+9,images\mobs\1012.gif,1012,Roda Frog,5,Fish,Water 1,Medium
+10,images\mobs\1013.gif,1013,Wolf,25,Brute,Earth 1,Medium
+11,images\mobs\1014.gif,1014,Spore,16,Plant,Water 1,Medium
+12,images\mobs\1015.gif,1015,Zombie,15,Undead,Undead 1,Medium
+13,images\mobs\1016.gif,1016,Archer Skeleton,31,Undead,Undead 1,Medium
+14,images\mobs\1018.gif,1018,Creamy,16,Insect,Wind 1,Small
+15,images\mobs\1019.gif,1019,Peco Peco,19,Brute,Fire 1,Large
+16,images\mobs\1020.gif,1020,Mandragora,12,Plant,Earth 3,Medium
+17,images\mobs\1023.gif,1023,Orc Warrior,24,Demi-Human,Earth 1,Medium
+18,images\mobs\1024.gif,1024,Wormtail,14,Plant,Earth 1,Medium
+19,images\mobs\1025.gif,1025,Snake / Boa,15,Brute,Earth 1,Medium
+20,images\mobs\1026.gif,1026,Munak,30,Undead,Undead 1,Medium
+21,images\mobs\1028.gif,1028,Soldier Skeleton,29,Undead,Undead 1,Medium
+22,images\mobs\1029.gif,1029,Isis,47,Demon,Shadow 1,Large
+23,images\mobs\1030.gif,1030,Anacondaq,23,Brute,Poison 1,Medium
+24,images\mobs\1031.gif,1031,Poporing,14,Plant,Poison 1,Medium
+25,images\mobs\1032.gif,1032,Verit,38,Undead,Undead 1,Medium
+26,images\mobs\1033.gif,1033,Elder Willow,20,Plant,Fire 2,Medium
+27,images\mobs\1034.gif,1034,Thara Frog,22,Fish,Water 2,Medium
+28,images\mobs\1035.gif,1035,Hunter Fly,42,Insect,Wind 2,Small
+29,images\mobs\1036.gif,1036,Ghoul,40,Undead,Undead 2,Medium
+30,images\mobs\1037.gif,1037,Side Winder,43,Brute,Poison 1,Medium
+31,images\mobs\1038.gif,1038,Osiris,78,Undead,Undead 4,Medium
+32,images\mobs\1040.gif,1040,Golem,25,Formless,Neutral 3,Large
+33,images\mobs\1041.gif,1041,Mummy,37,Undead,Undead 2,Medium
+34,images\mobs\1042.gif,1042,Steel Chonchon,17,Insect,Wind 1,Small
+35,images\mobs\1044.gif,1044,Obeaune,31,Fish,Water 2,Medium
+36,images\mobs\1045.gif,1045,Marc,36,Fish,Water 2,Medium
+37,images\mobs\1046.gif,1046,Doppelganger,72,Demon,Shadow 3,Medium
+38,images\mobs\1047.gif,1047,Peco Peco Egg,3,Formless,Neutral 3,Small
+39,images\mobs\1048.gif,1048,Thief Bug Egg,4,Insect,Shadow 1,Small
+40,images\mobs\1049.gif,1049,Picky,3,Brute,Fire 1,Small
+41,images\mobs\1050.gif,1050,Picky,4,Brute,Fire 1,Small
+42,images\mobs\1051.gif,1051,Thief Bug,6,Insect,Neutral 3,Small
+43,images\mobs\1052.gif,1052,Rocker,9,Insect,Earth 1,Medium
+44,images\mobs\1053.gif,1053,Thief Bug Female,10,Insect,Shadow 1,Medium
+45,images\mobs\1054.gif,1054,Thief Bug Male,19,Insect,Shadow 1,Medium
+46,images\mobs\1055.gif,1055,Muka,17,Plant,Earth 1,Large
+47,images\mobs\1056.gif,1056,Smokie,18,Brute,Earth 1,Small
+48,images\mobs\1057.gif,1057,Yoyo,21,Brute,Earth 1,Small
+49,images\mobs\1058.gif,1058,Metaller,22,Insect,Fire 1,Medium
+50,images\mobs\1059.gif,1059,Mistress,74,Insect,Wind 4,Small
+51,images\mobs\1060.gif,1060,Bigfoot,25,Brute,Earth 1,Large
+52,images\mobs\1061.gif,1061,Nightmare,49,Demon,Ghost 3,Large
+53,images\mobs\1063.gif,1063,Lunatic,3,Brute,Neutral 3,Small
+54,images\mobs\1064.gif,1064,Megalodon,24,Undead,Undead 1,Medium
+55,images\mobs\1065.gif,1065,Strouf,48,Fish,Water 3,Large
+56,images\mobs\1066.gif,1066,Vadon,19,Fish,Water 1,Small
+57,images\mobs\1067.gif,1067,Cornutus,23,Fish,Water 1,Small
+58,images\mobs\1068.gif,1068,Hydra,14,Plant,Water 2,Small
+59,images\mobs\1069.gif,1069,Swordfish,30,Fish,Water 2,Large
+60,images\mobs\1070.gif,1070,Kukre,11,Fish,Water 1,Small
+61,images\mobs\1071.gif,1071,Pirate Skeleton,25,Undead,Undead 1,Medium
+62,images\mobs\1072.gif,1072,Kaho,60,Demon,Fire 4,Medium
+63,images\mobs\1073.gif,1073,Crab,20,Fish,Water 1,Small
+64,images\mobs\1074.gif,1074,Shellfish,15,Fish,Water 1,Small
+65,images\mobs\1076.gif,1076,Skeleton,10,Undead,Undead 1,Medium
+66,images\mobs\1077.gif,1077,Poison Spore,19,Plant,Poison 1,Medium
+67,images\mobs\1078.gif,1078,Red Plant,1,Plant,Earth 1,Small
+68,images\mobs\1079.gif,1079,Blue Plant,1,Plant,Earth 1,Small
+69,images\mobs\1080.gif,1080,Green Plant,1,Plant,Earth 1,Small
+70,images\mobs\1081.gif,1081,Yellow Plant,1,Plant,Earth 1,Small
+71,images\mobs\1082.gif,1082,White Plant,1,Plant,Earth 1,Small
+72,images\mobs\1083.gif,1083,Shining Plant,1,Plant,Holy 1,Small
+73,images\mobs\1084.gif,1084,Black Mushroom,1,Plant,Earth 1,Small
+74,images\mobs\1085.gif,1085,Red Mushroom,1,Plant,Earth 1,Small
+75,images\mobs\1086.gif,1086,Golden Thief Bug,64,Insect,Fire 2,Large
+76,images\mobs\1087.gif,1087,Orc Hero,77,Demi-Human,Earth 2,Large
+77,images\mobs\1088.gif,1088,Vocal,18,Insect,Earth 1,Medium
+78,images\mobs\1089.gif,1089,Toad,10,Fish,Water 1,Medium
+79,images\mobs\1090.gif,1090,Mastering,2,Plant,Water 1,Medium
+80,images\mobs\1091.gif,1091,Dragon Fly,8,Insect,Wind 1,Small
+81,images\mobs\1092.gif,1092,Vagabond Wolf,24,Brute,Earth 1,Medium
+82,images\mobs\1093.gif,1093,Eclipse,6,Brute,Neutral 3,Medium
+83,images\mobs\1094.gif,1094,Ambernite,13,Insect,Water 1,Large
+84,images\mobs\1095.gif,1095,Andre,17,Insect,Earth 1,Small
+85,images\mobs\1096.gif,1096,Angeling,20,Angel,Holy 4,Medium
+86,images\mobs\1097.gif,1097,Ant Egg,4,Formless,Neutral 3,Small
+87,images\mobs\1098.gif,1098,Anubis,75,Demi-Human,Undead 2,Large
+88,images\mobs\1099.gif,1099,Argiope,41,Insect,Poison 1,Large
+89,images\mobs\1100.gif,1100,Argos,25,Insect,Poison 1,Large
+90,images\mobs\1102.gif,1102,Bathory,44,Demi-Human,Shadow 1,Medium
+91,images\mobs\1103.gif,1103,Caramel,23,Brute,Earth 1,Small
+92,images\mobs\1104.gif,1104,Coco,17,Brute,Earth 1,Small
+93,images\mobs\1105.gif,1105,Deniro,19,Insect,Earth 1,Small
+94,images\mobs\1106.gif,1106,Desert Wolf,27,Brute,Fire 1,Medium
+95,images\mobs\1107.gif,1107,Desert Wolf Baby / Baby Desert Wolf,9,Brute,Fire 1,Small
+96,images\mobs\1108.gif,1108,Deviace,47,Fish,Water 4,Medium
+97,images\mobs\1109.gif,1109,Deviruchi,46,Demon,Shadow 1,Small
+98,images\mobs\1110.gif,1110,Dokebi,33,Demon,Shadow 1,Small
+99,images\mobs\1111.gif,1111,Drainliar,24,Brute,Shadow 2,Small
+100,images\mobs\1112.gif,1112,Drake,70,Undead,Undead 1,Medium
+101,images\mobs\1113.gif,1113,Drops,3,Plant,Fire 1,Medium
+102,images\mobs\1114.gif,1114,Dustiness,21,Insect,Wind 2,Small
+103,images\mobs\1115.gif,1115,Eddga,65,Brute,Fire 1,Large
+104,images\mobs\1116.gif,1116,Eggyra,24,Formless,Ghost 2,Medium
+105,images\mobs\1117.gif,1117,Evil Druid,58,Undead,Undead 4,Large
+106,images\mobs\1118.gif,1118,Flora,26,Plant,Earth 1,Large
+107,images\mobs\1119.gif,1119,Frilldora,30,Brute,Fire 1,Medium
+108,images\mobs\1120.gif,1120,Ghostring,18,Demon,Ghost 4,Medium
+109,images\mobs\1121.gif,1121,Giearth,29,Demon,Earth 1,Small
+110,images\mobs\1122.gif,1122,Goblin,25,Demi-Human,Wind 1,Medium
+111,images\mobs\1123.gif,1123,Goblin,24,Demi-Human,Fire 1,Medium
+112,images\mobs\1124.gif,1124,Goblin,24,Demi-Human,Poison 1,Medium
+113,images\mobs\1125.gif,1125,Goblin,23,Demi-Human,Earth 1,Medium
+114,images\mobs\1126.gif,1126,Goblin,22,Demi-Human,Water 1,Medium
+115,images\mobs\1127.gif,1127,Hode,26,Brute,Earth 2,Medium
+116,images\mobs\1128.gif,1128,Horn,18,Insect,Earth 1,Medium
+117,images\mobs\1129.gif,1129,Horong,34,Formless,Fire 4,Small
+118,images\mobs\1130.gif,1130,Jakk,38,Formless,Fire 2,Medium
+119,images\mobs\1131.gif,1131,Joker,57,Demi-Human,Wind 4,Large
+120,images\mobs\1132.gif,1132,Khalitzburg,63,Undead,Undead 1,Large
+121,images\mobs\1133.gif,1133,Kobold,36,Demi-Human,Wind 2,Medium
+122,images\mobs\1134.gif,1134,Kobold,31,Demi-Human,Poison 2,Medium
+123,images\mobs\1135.gif,1135,Kobold,31,Demi-Human,Fire 2,Medium
+124,images\mobs\1138.gif,1138,Magnolia,26,Demon,Water 1,Small
+125,images\mobs\1139.gif,1139,Mantis,26,Insect,Earth 1,Medium
+126,images\mobs\1140.gif,1140,Marduk,40,Demi-Human,Fire 1,Large
+127,images\mobs\1141.gif,1141,Marina,21,Plant,Water 2,Small
+128,images\mobs\1142.gif,1142,Marine Sphere,28,Plant,Water 2,Small
+129,images\mobs\1143.gif,1143,Marionette,41,Demon,Ghost 3,Small
+130,images\mobs\1144.gif,1144,Marse,31,Fish,Water 2,Small
+131,images\mobs\1145.gif,1145,Martin,18,Brute,Earth 2,Small
+132,images\mobs\1146.gif,1146,Matyr,31,Brute,Shadow 1,Medium
+133,images\mobs\1147.gif,1147,Maya,81,Insect,Earth 4,Large
+134,images\mobs\1148.gif,1148,Medusa,79,Demon,Neutral 2,Medium
+135,images\mobs\1149.gif,1149,Minorous,52,Brute,Fire 2,Large
+136,images\mobs\1150.gif,1150,Moonlight Flower,67,Demon,Fire 3,Medium
+137,images\mobs\1151.gif,1151,Myst,38,Formless,Poison 1,Large
+138,images\mobs\1152.gif,1152,Orc Skeleton,28,Undead,Undead 1,Medium
+139,images\mobs\1153.gif,1153,Orc Zombie,24,Undead,Undead 1,Medium
+140,images\mobs\1154.gif,1154,Pasana,61,Demi-Human,Fire 2,Medium
+141,images\mobs\1155.gif,1155,Petite,44,Dragon,Earth 1,Medium
+142,images\mobs\1156.gif,1156,Petite,45,Dragon,Wind 1,Medium
+143,images\mobs\1157.gif,1157,Pharaoh,93,Demi-Human,Shadow 3,Large
+144,images\mobs\1158.gif,1158,Phen,26,Fish,Water 2,Medium
+145,images\mobs\1159.gif,1159,Phreeoni,69,Brute,Neutral 3,Large
+146,images\mobs\1160.gif,1160,Piere,18,Insect,Earth 1,Small
+147,images\mobs\1161.gif,1161,Plankton,10,Plant,Water 3,Small
+148,images\mobs\1162.gif,1162,Rafflesia,17,Plant,Earth 1,Small
+149,images\mobs\1163.gif,1163,Raydric,52,Demi-Human,Shadow 2,Large
+150,images\mobs\1164.gif,1164,Requiem,35,Demi-Human,Shadow 1,Medium
+151,images\mobs\1165.gif,1165,Sandman,34,Formless,Earth 3,Medium
+152,images\mobs\1166.gif,1166,Savage,26,Brute,Earth 2,Large
+153,images\mobs\1167.gif,1167,Savage Babe,7,Brute,Earth 1,Small
+154,images\mobs\1169.gif,1169,Skeleton Worker,30,Undead,Undead 1,Medium
+155,images\mobs\1170.gif,1170,Sohee,33,Demon,Water 1,Medium
+156,images\mobs\1174.gif,1174,Stainer,16,Insect,Wind 1,Small
+157,images\mobs\1175.gif,1175,Tarou,11,Brute,Shadow 1,Small
+158,images\mobs\1176.gif,1176,Vitata,20,Insect,Earth 1,Small
+159,images\mobs\1177.gif,1177,Zenorc,31,Demi-Human,Shadow 1,Medium
+160,images\mobs\1178.gif,1178,Zerom,23,Demi-Human,Fire 1,Medium
+161,images\mobs\1179.gif,1179,Whisper,34,Demon,Ghost 3,Small
+162,images\mobs\1180.gif,1180,Nine Tail,51,Brute,Fire 3,Medium
+163,images\mobs\1185.gif,1185,Whisper,34,Undead,Ghost 1,Small
+164,images\mobs\1186.gif,1186,Giant Whisper,34,Demon,Ghost 2,Small
+165,images\mobs\1188.gif,1188,Bongun,32,Undead,Undead 1,Medium
+166,images\mobs\1189.gif,1189,Orc Archer,49,Demi-Human,Earth 1,Medium
+167,images\mobs\1190.gif,1190,Orc Lord,74,Demi-Human,Earth 4,Large
+168,images\mobs\1191.gif,1191,Mimic,51,Formless,Neutral 3,Medium
+169,images\mobs\1192.gif,1192,Wraith,53,Undead,Undead 4,Large
+170,images\mobs\1193.gif,1193,Alarm,58,Formless,Neutral 3,Medium
+171,images\mobs\1194.gif,1194,Arclouse / Arclouze,59,Insect,Earth 2,Medium
+172,images\mobs\1195.gif,1195,Rideword,59,Formless,Neutral 3,Small
+173,images\mobs\1196.gif,1196,Skeleton Prisoner,52,Undead,Undead 3,Medium
+174,images\mobs\1197.gif,1197,Zombie Prisoner,53,Undead,Undead 3,Medium
+175,images\mobs\1199.gif,1199,Punk,43,Plant,Wind 1,Small
+176,images\mobs\1200.gif,1200,Zherlthsh / Zealotus,63,Demi-Human,Neutral 3,Medium
+177,images\mobs\1201.gif,1201,Rybio,71,Demon,Neutral 2,Large
+178,images\mobs\1202.gif,1202,Phendark,73,Demi-Human,Neutral 2,Large
+179,images\mobs\1203.gif,1203,Mysteltainn,76,Formless,Shadow 4,Large
+180,images\mobs\1204.gif,1204,Tirfing / Ogretooth,71,Formless,Shadow 3,Medium
+181,images\mobs\1205.gif,1205,Executioner,65,Formless,Shadow 2,Large
+182,images\mobs\1206.gif,1206,Anolian,61,Fish,Water 2,Medium
+183,images\mobs\1207.gif,1207,Sting,61,Formless,Earth 3,Medium
+184,images\mobs\1208.gif,1208,Wander Man / Wanderer,74,Demon,Wind 1,Medium
+185,images\mobs\1209.gif,1209,Cramp,56,Brute,Poison 2,Small
+186,images\mobs\1211.gif,1211,Brilight,46,Insect,Fire 1,Small
+187,images\mobs\1213.gif,1213,High Orc,52,Demi-Human,Fire 2,Large
+188,images\mobs\1214.gif,1214,Choco,43,Brute,Fire 1,Small
+189,images\mobs\1215.gif,1215,Stem Worm,40,Plant,Wind 1,Medium
+190,images\mobs\1216.gif,1216,Penomena,57,Fish,Poison 1,Medium
+191,images\mobs\1219.gif,1219,Knight of Abyss / Abysmal Knight,79,Demi-Human,Shadow 4,Large
+192,images\mobs\1242.gif,1242,Marin,15,Plant,Water 2,Medium
+193,images\mobs\1243.gif,1243,Sasquatch,30,Brute,Neutral 3,Large
+194,images\mobs\1246.gif,1246,Christmas Cookie,28,Demi-Human,Holy 2,Small
+195,images\mobs\1248.gif,1248,Cruiser,35,Formless,Neutral 3,Medium
+196,images\mobs\1249.gif,1249,Myst Case,38,Formless,Neutral 3,Medium
+197,images\mobs\1250.gif,1250,Chepet,42,Demi-Human,Fire 1,Medium
+198,images\mobs\1251.gif,1251,Knight of Windstorm / Stormy Knight,77,Formless,Wind 4,Large
+199,images\mobs\1252.gif,1252,Garm / Hatii,73,Brute,Water 4,Large
+200,images\mobs\1253.gif,1253,Gargoyle,48,Demon,Wind 3,Medium
+201,images\mobs\1254.gif,1254,Raggler,21,Brute,Wind 1,Small
+202,images\mobs\1255.gif,1255,Neraid / Nereid,40,Brute,Earth 1,Small
+203,images\mobs\1256.gif,1256,Pest,40,Brute,Shadow 2,Small
+204,images\mobs\1257.gif,1257,Injustice,51,Undead,Shadow 2,Medium
+205,images\mobs\1258.gif,1258,Goblin Archer,28,Demi-Human,Poison 1,Small
+206,images\mobs\1259.gif,1259,Gryphon,72,Brute,Wind 4,Large
+207,images\mobs\1260.gif,1260,Dark Frame,59,Demon,Shadow 3,Medium
+208,images\mobs\1261.gif,1261,Wild Rose,38,Brute,Wind 1,Small
+209,images\mobs\1262.gif,1262,Mutant Dragon / Mutant Dragonoid,65,Dragon,Fire 2,Large
+210,images\mobs\1263.gif,1263,Wind Ghost,51,Demon,Wind 3,Medium
+211,images\mobs\1264.gif,1264,Merman,53,Demi-Human,Water 3,Medium
+212,images\mobs\1265.gif,1265,Cookie,25,Demi-Human,Neutral 3,Small
+213,images\mobs\1266.gif,1266,Aster,18,Fish,Earth 1,Small
+214,images\mobs\1267.gif,1267,Carat,51,Demon,Wind 2,Medium
+215,images\mobs\1268.gif,1268,Bloody Knight,82,Formless,Shadow 4,Large
+216,images\mobs\1269.gif,1269,Clock,60,Formless,Earth 2,Medium
+217,images\mobs\1270.gif,1270,Clock Tower Manager,63,Formless,Neutral 4,Large
+218,images\mobs\1271.gif,1271,Alligator,42,Brute,Water 1,Medium
+219,images\mobs\1272.gif,1272,Dark Lord,80,Demon,Undead 4,Large
+220,images\mobs\1273.gif,1273,Orc Lady,31,Demi-Human,Earth 2,Medium
+221,images\mobs\1274.gif,1274,Megalith,45,Formless,Neutral 4,Large
+222,images\mobs\1275.gif,1275,Alice,62,Demi-Human,Neutral 3,Medium
+223,images\mobs\1276.gif,1276,Raydric Archer,52,Demon,Shadow 2,Medium
+224,images\mobs\1277.gif,1277,Greatest General,40,Formless,Fire 2,Medium
+225,images\mobs\1278.gif,1278,Stalactic Golem,60,Formless,Neutral 4,Large
+226,images\mobs\1279.gif,1279,Tri Joint,32,Insect,Earth 1,Small
+227,images\mobs\1280.gif,1280,Steam Goblin / Goblin Steamrider,35,Demi-Human,Wind 2,Medium
+228,images\mobs\1281.gif,1281,Sage Worm,43,Brute,Neutral 3,Small
+229,images\mobs\1282.gif,1282,Kobold Archer,33,Demi-Human,Fire 1,Small
+230,images\mobs\1289.gif,1289,Maya Purple,81,Insect,Earth 4,Large
+231,images\mobs\1290.gif,1290,Skeleton General,73,Undead,Undead 1,Medium
+232,images\mobs\1291.gif,1291,Wraith Dead,74,Undead,Undead 4,Large
+233,images\mobs\1292.gif,1292,Mini Demon,68,Demon,Shadow 1,Small
+234,images\mobs\1293.gif,1293,Creamy Fear,62,Insect,Wind 1,Small
+235,images\mobs\1294.gif,1294,Killer Mantis,56,Insect,Earth 1,Medium
+236,images\mobs\1295.gif,1295,Owl Baron,75,Demon,Neutral 3,Large
+237,images\mobs\1296.gif,1296,Kobold Leader,65,Demi-Human,Wind 2,Medium
+238,images\mobs\1297.gif,1297,Ancient Mummy,64,Undead,Undead 2,Medium
+239,images\mobs\1298.gif,1298,Zombie Master,62,Undead,Undead 1,Medium
+240,images\mobs\1299.gif,1299,Goblin Leader,64,Demi-Human,Wind 1,Medium
+241,images\mobs\1300.gif,1300,Caterpillar,64,Insect,Earth 1,Small
+242,images\mobs\1301.gif,1301,Am Mut,61,Demon,Shadow 1,Small
+243,images\mobs\1302.gif,1302,Dark Illusion,77,Demon,Undead 4,Large
+244,images\mobs\1303.gif,1303,Giant Hornet,56,Insect,Wind 1,Small
+245,images\mobs\1304.gif,1304,Giant Spider,55,Insect,Poison 1,Large
+246,images\mobs\1305.gif,1305,Ancient Worm,67,Insect,Poison 1,Large
+247,images\mobs\1306.gif,1306,Leib Olmai,58,Brute,Earth 1,Large
+248,images\mobs\1307.gif,1307,Cat o' Nine Tails,76,Demon,Fire 3,Medium
+249,images\mobs\1308.gif,1308,Panzer Goblin,59,Demi-Human,Wind 2,Medium
+250,images\mobs\1309.gif,1309,Gajomart,63,Formless,Fire 4,Small
+251,images\mobs\1310.gif,1310,Majoruros,66,Brute,Fire 2,Large
+252,images\mobs\1311.gif,1311,Gullinbursti,62,Brute,Earth 2,Large
+253,images\mobs\1312.gif,1312,Turtle General,97,Brute,Earth 2,Large
+254,images\mobs\1313.gif,1313,Mobster,61,Demi-Human,Neutral 1,Medium
+255,images\mobs\1314.gif,1314,Permeter,63,Brute,Neutral 2,Medium
+256,images\mobs\1315.gif,1315,Assaulter,71,Demi-Human,Wind 2,Medium
+257,images\mobs\1316.gif,1316,Solider,70,Brute,Earth 2,Medium
+258,images\mobs\1317.gif,1317,Fur Seal / Seal,63,Brute,Water 1,Medium
+259,images\mobs\1318.gif,1318,Heater,68,Brute,Fire 2,Medium
+260,images\mobs\1319.gif,1319,Freezer,72,Brute,Water 2,Medium
+261,images\mobs\1320.gif,1320,Owl Duke,75,Demon,Neutral 3,Large
+262,images\mobs\1321.gif,1321,Dragon Tail,61,Insect,Wind 2,Medium
+263,images\mobs\1322.gif,1322,Spring Rabbit,58,Brute,Earth 2,Medium
+264,images\mobs\1323.gif,1323,Sea Otter,59,Brute,Water 3,Medium
+265,images\mobs\1365.gif,1365,Apocalypse,66,Formless,Neutral 3,Large
+266,images\mobs\1366.gif,1366,Lava Golem,77,Formless,Fire 4,Large
+267,images\mobs\1367.gif,1367,Blazer,43,Demon,Fire 2,Medium
+268,images\mobs\1368.gif,1368,Geographer,56,Plant,Earth 3,Medium
+269,images\mobs\1369.gif,1369,Grand Peco,58,Brute,Fire 2,Large
+270,images\mobs\1370.gif,1370,Succubus,85,Demon,Shadow 3,Medium
+271,images\mobs\1371.gif,1371,Fake Angel / False Angel,65,Angel,Holy 3,Small
+272,images\mobs\1372.gif,1372,Goat,69,Brute,Fire 3,Medium
+273,images\mobs\1373.gif,1373,Lord of Death / Lord of the Dead,94,Demon,Shadow 3,Large
+274,images\mobs\1374.gif,1374,Incubus,75,Demon,Shadow 3,Medium
+275,images\mobs\1375.gif,1375,The Paper,56,Formless,Neutral 3,Medium
+276,images\mobs\1376.gif,1376,Harpy,70,Demon,Wind 3,Medium
+277,images\mobs\1377.gif,1377,Elder,64,Demi-Human,Neutral 4,Large
+278,images\mobs\1378.gif,1378,Demon Pungus,56,Demon,Poison 3,Small
+279,images\mobs\1379.gif,1379,Nightmare Terror,78,Demon,Shadow 3,Large
+280,images\mobs\1380.gif,1380,Driller,52,Brute,Earth 1,Medium
+281,images\mobs\1381.gif,1381,Grizzly,68,Brute,Fire 3,Large
+282,images\mobs\1382.gif,1382,Diabolic,67,Demon,Shadow 2,Small
+283,images\mobs\1383.gif,1383,Explosion,46,Brute,Fire 3,Small
+284,images\mobs\1384.gif,1384,Deleter,66,Dragon,Fire 2,Medium
+285,images\mobs\1385.gif,1385,Deleter,65,Dragon,Fire 2,Medium
+286,images\mobs\1386.gif,1386,Sleeper,67,Formless,Earth 2,Medium
+287,images\mobs\1387.gif,1387,Gig,60,Brute,Fire 2,Small
+288,images\mobs\1388.gif,1388,Archangeling / Arc Angeling,60,Angel,Holy 3,Medium
+289,images\mobs\1389.gif,1389,Dracula,85,Demon,Shadow 4,Large
+290,images\mobs\1390.gif,1390,Violy,75,Demi-Human,Neutral 2,Medium
+291,images\mobs\1391.gif,1391,Galapago,61,Brute,Earth 1,Small
+292,images\mobs\1392.gif,1392,Rotar Zairo,25,Formless,Wind 2,Large
+293,images\mobs\1400.gif,1400,Karakasa,30,Formless,Neutral 3,Medium
+294,images\mobs\1401.gif,1401,Shinobi,69,Demi-Human,Shadow 3,Medium
+295,images\mobs\1402.gif,1402,Poison Toad,46,Brute,Poison 2,Medium
+296,images\mobs\1403.gif,1403,Antique Firelock / Firelock Soldier,47,Undead,Undead 2,Medium
+297,images\mobs\1404.gif,1404,Miyabi Ningyo / Miyabi Doll,33,Demon,Shadow 1,Medium
+298,images\mobs\1405.gif,1405,Tengu,65,Demon,Earth 2,Large
+299,images\mobs\1406.gif,1406,Kapha,41,Fish,Water 1,Medium
+300,images\mobs\1408.gif,1408,Bloody Butterfly,55,Insect,Wind 2,Medium
+301,images\mobs\1409.gif,1409,Rice Cake Boy / Dumpling Child,27,Demi-Human,Neutral 1,Small
+302,images\mobs\1410.gif,1410,Live Peach Tree / Enchanted Peach Tree,53,Plant,Earth 2,Medium
+303,images\mobs\1412.gif,1412,Evil Cloud Hermit / Taoist Hermit,56,Formless,Neutral 2,Large
+304,images\mobs\1413.gif,1413,Wild Ginseng / Hermit Plant,46,Plant,Fire 2,Small
+305,images\mobs\1415.gif,1415,Baby Leopard,32,Brute,Ghost 1,Small
+306,images\mobs\1416.gif,1416,Wicked Nymph / Evil Nymph,63,Demon,Shadow 3,Medium
+307,images\mobs\1417.gif,1417,Zipper Bear,35,Brute,Shadow 1,Medium
+308,images\mobs\1418.gif,1418,Evil Snake Lord,73,Brute,Ghost 3,Large
+309,images\mobs\1492.gif,1492,Incantation Samurai / Samurai Specter,71,Demi-Human,Shadow 3,Large
+310,images\mobs\1493.gif,1493,Dryad,50,Plant,Earth 4,Medium
+311,images\mobs\1494.gif,1494,Beetle King,34,Insect,Earth 1,Small
+312,images\mobs\1495.gif,1495,Stone Shooter,42,Plant,Fire 3,Medium
+313,images\mobs\1497.gif,1497,Wooden Golem,51,Plant,Earth 4,Large
+314,images\mobs\1498.gif,1498,Wootan Shooter,39,Demi-Human,Earth 2,Medium
+315,images\mobs\1499.gif,1499,Wootan Fighter,41,Demi-Human,Fire 2,Medium
+316,images\mobs\1500.gif,1500,Parasite,49,Plant,Wind 2,Medium
+317,images\mobs\1503.gif,1503,Gibbet,58,Demon,Shadow 1,Large
+318,images\mobs\1504.gif,1504,Dullahan,62,Undead,Undead 2,Medium
+319,images\mobs\1505.gif,1505,Loli Ruri,71,Demon,Shadow 4,Large
+320,images\mobs\1506.gif,1506,Disguise,55,Demon,Earth 4,Medium
+321,images\mobs\1507.gif,1507,Bloody Murderer,72,Demi-Human,Shadow 3,Large
+322,images\mobs\1508.gif,1508,Quve,40,Undead,Undead 1,Small
+323,images\mobs\1509.gif,1509,Lude,36,Undead,Undead 1,Small
+324,images\mobs\1510.gif,1510,Hylozoist / Heirozoist,51,Demon,Shadow 2,Small
+325,images\mobs\1511.gif,1511,Amon Ra,88,Demi-Human,Earth 3,Large
+326,images\mobs\1512.gif,1512,Hyegun / Yao Jun,56,Undead,Undead 2,Medium
+327,images\mobs\1513.gif,1513,Civil Servant / Mao Guai,62,Brute,Wind 2,Medium
+328,images\mobs\1514.gif,1514,Dancing Dragon / Zhu Po Long,54,Dragon,Wind 2,Medium
+329,images\mobs\1515.gif,1515,Garm Baby / Baby Hatii,61,Brute,Water 2,Medium
+330,images\mobs\1516.gif,1516,Increase Soil / Mi Gao,51,Formless,Earth 3,Medium
+331,images\mobs\1517.gif,1517,Li Me Mang Ryang / Jing Guai,48,Demon,Earth 3,Medium
+332,images\mobs\1582.gif,1582,Deviling,31,Demon,Shadow 4,Medium
+333,images\mobs\1583.gif,1583,Tao Gunka,70,Demon,Neutral 3,Large
+334,images\mobs\1584.gif,1584,Tamruan,52,Demon,Shadow 3,Large
+335,images\mobs\1586.gif,1586,Leaf Cat,38,Brute,Earth 1,Small
+336,images\mobs\1587.gif,1587,Kraben,50,Formless,Ghost 2,Medium
+337,images\mobs\1613.gif,1613,Metaling,26,Formless,Neutral 1,Small
+338,images\mobs\1614.gif,1614,Mineral,56,Formless,Neutral 2,Small
+339,images\mobs\1615.gif,1615,Obsidian,50,Formless,Earth 2,Small
+340,images\mobs\1616.gif,1616,Pitman,43,Undead,Earth 2,Large
+341,images\mobs\1617.gif,1617,Waste Stove / Old Stove,68,Formless,Neutral 1,Large
+342,images\mobs\1618.gif,1618,Ungoliant,69,Insect,Poison 2,Large
+343,images\mobs\1619.gif,1619,Porcellio,28,Insect,Earth 3,Small
+344,images\mobs\1620.gif,1620,Noxious,35,Formless,Ghost 3,Medium
+345,images\mobs\1621.gif,1621,Venomous,42,Formless,Poison 1,Medium
+346,images\mobs\1622.gif,1622,Teddy Bear,71,Formless,Neutral 3,Small
+347,images\mobs\1623.gif,1623,RSX 0806 / RSX-0806,86,Formless,Neutral 3,Large
+348,images\mobs\1626.gif,1626,Hellion Revenant,88,Demon,Undead 3,Medium
+349,images\mobs\1627.gif,1627,Anopheles,23,Insect,Wind 3,Small
+350,images\mobs\1628.gif,1628,Mole / Holden,36,Brute,Earth 2,Small
+351,images\mobs\1630.gif,1630,Bacsojin / White Lady,85,Demi-Human,Wind 3,Large
+352,images\mobs\1631.gif,1631,Chung E / Green Maiden,59,Demi-Human,Wind 2,Medium
+353,images\mobs\1632.gif,1632,Gremlin,53,Demon,Shadow 2,Large
+354,images\mobs\1633.gif,1633,Beholder,56,Formless,Wind 2,Small
+355,images\mobs\1635.gif,1635,Eremes / Eremes Guile,87,Demon,Poison 4,Medium
+356,images\mobs\1652.gif,1652,Ygnizem / Egnigem Cenia,58,Demi-Human,Fire 2,Medium
+357,images\mobs\1653.gif,1653,Whikebain / Wickebine Tres,62,Demi-Human,Poison 3,Medium
+358,images\mobs\1654.gif,1654,Armaia / Armeyer Dinze,66,Demi-Human,Earth 3,Medium
+359,images\mobs\1655.gif,1655,Erend / Errende Ebecee,59,Demi-Human,Holy 2,Medium
+360,images\mobs\1656.gif,1656,Kavac / Kavach Icarus,60,Demi-Human,Wind 2,Medium
+361,images\mobs\1657.gif,1657,Rawrel / Laurell Weinder,61,Demi-Human,Ghost 2,Medium
+362,images\mobs\1658.gif,1658,Ygnizem / Egnigem Cenia,79,Demi-Human,Fire 2,Medium
+363,images\mobs\1668.gif,1668,Archdam,79,Demi-Human,Neutral 3,Large
+364,images\mobs\1670.gif,1670,Dimik,79,Formless,Wind 2,Medium
+365,images\mobs\1671.gif,1671,Dimik,89,Formless,Water 2,Medium
+366,images\mobs\1672.gif,1672,Dimik,80,Formless,Earth 2,Medium
+367,images\mobs\1673.gif,1673,Dimik,82,Formless,Fire 2,Medium
+368,images\mobs\1676.gif,1676,Venatu,72,Formless,Neutral 2,Medium
+369,images\mobs\1677.gif,1677,Venatu,80,Formless,Wind 2,Medium
+370,images\mobs\1678.gif,1678,Venatu,78,Formless,Earth 2,Medium
+371,images\mobs\1679.gif,1679,Venatu,75,Formless,Water 2,Medium
+372,images\mobs\1680.gif,1680,Hill Wind,45,Brute,Wind 3,Medium
+373,images\mobs\1681.gif,1681,Gemini-S58,72,Formless,Water 1,Medium
+374,images\mobs\1682.gif,1682,Removal / Remover,55,Undead,Undead 2,Medium
+375,images\mobs\1685.gif,1685,Vesper,97,Brute,Holy 2,Large
+376,images\mobs\1686.gif,1686,Orc Baby,21,Demi-Human,Earth 1,Small
+377,images\mobs\1687.gif,1687,Green Iguana / Grove,54,Brute,Earth 2,Medium
+378,images\mobs\1688.gif,1688,Lady Tanee,89,Plant,Wind 3,Large
+379,images\mobs\1692.gif,1692,Breeze,56,Formless,Wind 3,Medium
+380,images\mobs\1693.gif,1693,Plasma,56,Formless,Ghost 4,Small
+381,images\mobs\1694.gif,1694,Plasma,43,Formless,Fire 4,Small
+382,images\mobs\1695.gif,1695,Plasma,47,Formless,Earth 4,Small
+383,images\mobs\1696.gif,1696,Plasma,49,Formless,Shadow 4,Small
+384,images\mobs\1697.gif,1697,Plasma,44,Formless,Water 4,Small
+385,images\mobs\1698.gif,1698,Deathword / Death Word,65,Formless,Neutral 3,Medium
+386,images\mobs\1699.gif,1699,Ancient Mimic,60,Formless,Neutral 3,Large
+387,images\mobs\1700.gif,1700,Observation / Dame of Sentinel,81,Angel,Neutral 4,Medium
+388,images\mobs\1701.gif,1701,Shelter / Mistress of Shelter,80,Angel,Holy 3,Medium
+389,images\mobs\1702.gif,1702,Retribution / Baroness of Retribution,79,Angel,Shadow 3,Medium
+390,images\mobs\1703.gif,1703,Solace / Lady Solace,77,Angel,Holy 3,Medium
+391,images\mobs\1704.gif,1704,Thanatos Odium / Odium of Thanatos,92,Undead,Ghost 4,Large
+392,images\mobs\1705.gif,1705,Thanatos Despero / Despero of Thanatos,88,Undead,Ghost 4,Large
+393,images\mobs\1706.gif,1706,Thanatos Maero / Maero of Thanatos,83,Undead,Ghost 4,Medium
+394,images\mobs\1707.gif,1707,Thanatos Dolor / Dolor of Thanatos,83,Undead,Ghost 4,Small
+395,images\mobs\1708.gif,1708,Thanatos / Memory of Thanatos,99,Demon,Ghost 4,Large
+396,images\mobs\1709.gif,1709,Thanatos Odium / Odium of Thanatos,92,Undead,Ghost 4,Large
+397,images\mobs\1710.gif,1710,Thanatos Despero / Despero of Thanatos,88,Undead,Ghost 4,Large
+398,images\mobs\1711.gif,1711,Thanatos Maero / Maero of Thanatos,83,Undead,Ghost 4,Medium
+399,images\mobs\1712.gif,1712,Thanatos Dolor / Dolor of Thanatos,83,Undead,Ghost 4,Small
+400,images\mobs\1713.gif,1713,Acidus,80,Dragon,Holy 2,Large
+401,images\mobs\1714.gif,1714,Ferus,70,Dragon,Fire 2,Large
+402,images\mobs\1715.gif,1715,Novus,42,Dragon,Neutral 1,Small
+403,images\mobs\1716.gif,1716,Acidus,76,Dragon,Wind 2,Large
+404,images\mobs\1717.gif,1717,Ferus,69,Dragon,Earth 2,Large
+405,images\mobs\1718.gif,1718,Novus,43,Dragon,Neutral 1,Small
+406,images\mobs\1719.gif,1719,Detale / Detardeurus,90,Dragon,Shadow 3,Large
+407,images\mobs\1720.gif,1720,Hydro / Hydrolancer,89,Dragon,Shadow 2,Large
+408,images\mobs\1721.gif,1721,Dragon Egg,43,Dragon,Neutral 2,Medium
+409,images\mobs\1734.gif,1734,Kiel D-01,90,Formless,Shadow 2,Medium
+410,images\mobs\1735.gif,1735,Alicel,75,Demon,Neutral 3,Medium
+411,images\mobs\1736.gif,1736,Aliot,75,Demon,Neutral 3,Medium
+412,images\mobs\1737.gif,1737,Aliza,69,Demi-Human,Neutral 3,Medium
+413,images\mobs\1738.gif,1738,Constant,55,Formless,Shadow 3,Small
+414,images\mobs\1745.gif,1745,Constant,55,Demon,Shadow 3,Small
+415,images\mobs\1751.gif,1751,Valkyrie Randgris,99,Angel,Holy 4,Large
+416,images\mobs\1752.gif,1752,Skogul,70,Demon,Shadow 3,Medium
+417,images\mobs\1753.gif,1753,Frus,69,Demon,Shadow 3,Medium
+418,images\mobs\1754.gif,1754,Skeggiold,81,Angel,Holy 2,Small
+419,images\mobs\1755.gif,1755,Skeggiold,83,Angel,Holy 2,Small
+420,images\mobs\1761.gif,1761,Skogul,70,Demon,Shadow 3,Medium
+421,images\mobs\1762.gif,1762,Frus,69,Demon,Shadow 3,Medium
+422,images\mobs\1765.gif,1765,Valkyrie,99,Angel,Holy 4,Large
+423,images\mobs\1768.gif,1768,Gloom Under Night,89,Formless,Ghost 3,Large
+424,images\mobs\1769.gif,1769,Agav,73,Demi-Human,Neutral 4,Medium
+425,images\mobs\1770.gif,1770,Echio,69,Demi-Human,Neutral 4,Medium
+426,images\mobs\1771.gif,1771,Vanberk,59,Demi-Human,Neutral 4,Medium
+427,images\mobs\1772.gif,1772,Isilla,62,Demi-Human,Neutral 4,Medium
+428,images\mobs\1773.gif,1773,Hodremlin,61,Demon,Shadow 3,Medium
+429,images\mobs\1774.gif,1774,Seeker,65,Formless,Wind 3,Small
+430,images\mobs\1775.gif,1775,Snowier,60,Formless,Water 2,Large
+431,images\mobs\1776.gif,1776,Siroma,42,Formless,Water 3,Small
+432,images\mobs\1777.gif,1777,Ice Titan,60,Formless,Water 3,Large
+433,images\mobs\1778.gif,1778,Gazeti,55,Demon,Water 1,Medium
+434,images\mobs\1779.gif,1779,Ktullanux,98,Brute,Water 4,Large
+435,images\mobs\1780.gif,1780,Muscipular,57,Plant,Earth 1,Medium
+436,images\mobs\1781.gif,1781,Drosera,46,Plant,Earth 1,Medium
+437,images\mobs\1782.gif,1782,Roween,31,Brute,Wind 1,Medium
+438,images\mobs\1783.gif,1783,Galion,44,Brute,Wind 2,Medium
+439,images\mobs\1784.gif,1784,Stapo,23,Formless,Earth 2,Small
+440,images\mobs\1785.gif,1785,Atroce,82,Brute,Shadow 3,Large
+441,images\mobs\1789.gif,1789,Iceicle,38,Formless,Water 2,Small
+442,images\mobs\1796.gif,1796,Aunoe,62,Demi-Human,Neutral 4,Medium
+443,images\mobs\1797.gif,1797,Fanat,62,Demi-Human,Neutral 4,Medium
+444,images\mobs\1829.gif,1829,Sword Guardian / Sword Master,86,Demi-Human,Neutral 4,Large
+445,images\mobs\1830.gif,1830,Bow Guardian / Bow Master,80,Demi-Human,Neutral 4,Large
+446,images\mobs\1831.gif,1831,Salamander,91,Formless,Fire 3,Large
+447,images\mobs\1832.gif,1832,Ifrit,99,Formless,Fire 4,Large
+448,images\mobs\1833.gif,1833,Kasa,85,Formless,Fire 3,Large
+449,images\mobs\1836.gif,1836,Magmaring,40,Formless,Fire 2,Small
+450,images\mobs\1837.gif,1837,Imp / Fire Imp,76,Demon,Fire 3,Small
+451,images\mobs\1838.gif,1838,Knocker,50,Demon,Earth 1,Small
+452,images\mobs\1839.gif,1839,Byorgue,86,Demi-Human,Neutral 1,Medium
+453,images\mobs\1864.gif,1864,Zombie Slaughter,77,Undead,Undead 3,Medium
+454,images\mobs\1865.gif,1865,Ragged Zombie,75,Undead,Undead 3,Medium
+455,images\mobs\1866.gif,1866,Hell Poodle,71,Demon,Shadow 1,Small
+456,images\mobs\1867.gif,1867,Banshee,81,Demon,Shadow 2,Medium
+457,images\mobs\1869.gif,1869,Flame Skull,60,Demon,Ghost 3,Small
+458,images\mobs\1870.gif,1870,Necromancer,88,Undead,Undead 4,Medium
+459,images\mobs\1871.gif,1871,Fallen Bishop / Fallen Bishop Hibram,80,Demon,Shadow 2,Medium
+460,images\mobs\1873.gif,1873,Beelzebub,98,Demon,Ghost 4,Small
+461,images\mobs\1880.gif,1880,Wood Goblin,42,Plant,Earth 3,Medium
+462,images\mobs\1881.gif,1881,Les,39,Plant,Earth 4,Medium
+463,images\mobs\1882.gif,1882,Baba Yaga,49,Demi-Human,Water 1,Medium
+464,images\mobs\1883.gif,1883,Uzhas,61,Demi-Human,Water 3,Medium
+465,images\mobs\1884.gif,1884,Mavka,63,Plant,Earth 3,Medium
+466,images\mobs\1885.gif,1885,Gopinich,85,Brute,Earth 3,Large
+467,images\mobs\1894.gif,1894,Pouring,50,Plant,Ghost 3,Small
+468,images\mobs\1918.gif,1918,Incarnation of Morroc,97,Angel,Shadow 1,Large
+469,images\mobs\1919.gif,1919,Incarnation of Morroc,97,Demon,Shadow 3,Medium
+470,images\mobs\1920.gif,1920,Incarnation of Morroc,96,Demon,Undead 3,Medium
+471,images\mobs\1921.gif,1921,Incarnation of Morroc,98,Demon,Ghost 3,Medium
+472,images\mobs\1974.gif,1974,Banshee Master,84,Demon,Shadow 2,Medium
+473,images\mobs\1975.gif,1975,Beholder Master,70,Formless,Wind 2,Medium
+474,images\mobs\1976.gif,1976,Cobalt Mineral,72,Formless,Neutral 2,Medium
+475,images\mobs\1977.gif,1977,Heavy Metaling,73,Formless,Neutral 1,Small
+476,images\mobs\1978.gif,1978,Hell Apocalips / Hell Apocalypse,86,Formless,Neutral 3,Large
+477,images\mobs\1979.gif,1979,Zukadam / Zakudam,82,Demi-Human,Neutral 3,Large
+478,images\mobs\2013.gif,2013,Draco,82,Dragon,Earth 1,Medium
+479,images\mobs\2014.gif,2014,Draco Egg,67,Dragon,Earth 4,Medium
+480,images\mobs\2015.gif,2015,Dark Pinguicula,83,Plant,Poison 2,Medium
+481,images\mobs\2016.gif,2016,Aqua Elemental,83,Formless,Water 4,Large
+482,images\mobs\2017.gif,2017,Rata,107,Demi-Human,Earth 3,Medium
+483,images\mobs\2018.gif,2018,Duneyrr,107,Demi-Human,Earth 3,Medium
+484,images\mobs\2068.gif,2068,Boitata,93,Formless,Fire 3,Large
+485,images\mobs\2069.gif,2069,Iara,79,Fish,Water 3,Medium
+486,images\mobs\2070.gif,2070,Piranha,75,Fish,Water 3,Medium
+487,images\mobs\2071.gif,2071,Headless Mule,80,Demon,Fire 3,Large
+488,images\mobs\2072.gif,2072,Jaguar,71,Brute,Earth 2,Medium
+489,images\mobs\2073.gif,2073,Toucan,70,Brute,Wind 2,Small
+490,images\mobs\2074.gif,2074,Curupira,68,Demon,Earth 1,Medium
+491,images\mobs\2081.gif,2081,Suspicious Hydra / Strange Hydra,34,Plant,Water 2,Small
+492,images\mobs\2083.gif,2083,Scaraba / One-Horned Scara,130,Insect,Earth 1,Small
+493,images\mobs\2084.gif,2084,Scaraba / Two-Horned Scara,134,Insect,Earth 1,Small
+494,images\mobs\2085.gif,2085,Antler Scara,136,Insect,Earth 2,Medium
+495,images\mobs\2086.gif,2086,Rake Scara,139,Insect,Earth 2,Medium
+496,images\mobs\2087.gif,2087,Queen Scaraba / Scaraba Que,140,Insect,Earth 3,Large
+497,images\mobs\2088.gif,2088,Scaraba E,125,Insect,Neutral 1,Small
+498,images\mobs\2089.gif,2089,Scaraba E,126,Insect,Neutral 1,Small
+499,images\mobs\2090.gif,2090,Antler Scaraba E,127,Insect,Neutral 1,Small
+500,images\mobs\2091.gif,2091,Rake Scaraba E,128,Insect,Neutral 1,Small
+501,images\mobs\2133.gif,2133,Angra Mant,144,Insect,Earth 2,Medium
+502,images\mobs\2151.gif,2151,Alnoldi / Rafflesia Alnol,80,Plant,Earth 1,Medium
+503,images\mobs\2152.gif,2152,Como,81,Brute,Poison 3,Medium
+504,images\mobs\2153.gif,2153,Cendrawas,84,Angel,Fire 1,Medium
+505,images\mobs\2154.gif,2154,Banaspa,85,Formless,Fire 3,Small
+506,images\mobs\2155.gif,2155,Butoi,88,Demon,Fire 2,Large
+507,images\mobs\2156.gif,2156,Le,94,Demon,Shadow 2,Large
+508,images\mobs\2161.gif,2161,Gold One-Horn Scara,130,Insect,Earth 1,Small
+509,images\mobs\2162.gif,2162,Gold Two-Horn Scara,134,Insect,Earth 1,Small
+510,images\mobs\2163.gif,2163,Gold Antler Scara,136,Insect,Earth 2,Medium
+511,images\mobs\2164.gif,2164,Gold Rake Scara,139,Insect,Earth 2,Medium
+512,images\mobs\2165.gif,2165,Gold Queen Scara,140,Insect,Earth 3,Large
+513,images\mobs\2166.gif,2166,Gold One-Horn Scaraba E,125,Insect,Neutral 1,Small
+514,images\mobs\2167.gif,2167,Gold Two-Horn Scaraba E,126,Insect,Neutral 1,Small
+515,images\mobs\2168.gif,2168,Gold Antler Scaraba E,127,Insect,Neutral 1,Small
+516,images\mobs\2169.gif,2169,Gold Rake Scaraba E,128,Insect,Neutral 1,Small
+517,images\mobs\2197.gif,2197,Red Eru,91,Fish,Water 2,Medium
+518,images\mobs\2198.gif,2198,King Kray / King Dram,117,Fish,Water 2,Large
+519,images\mobs\2199.gif,2199,Siora,87,Formless,Water 1,Small
+520,images\mobs\2201.gif,2201,Srop,113,Fish,Water 2,Medium
+521,images\mobs\2202.gif,2202,Krak,124,Fish,Water 4,Large
+522,images\mobs\2203.gif,2203,Pot Dof,115,Fish,Water 2,Small
+523,images\mobs\2204.gif,2204,Sedo,110,Fish,Water 2,Medium
+524,images\mobs\2208.gif,2208,Wild Rid,95,Fish,Water 2,Large
+525,images\mobs\2244.gif,2244,Champion Chen / Dark Martial Arts Mast,130,Demi-Human,Water 4,Medium
+526,images\mobs\2309.gif,2309,Bungisng,121,Demi-Human,Earth 2,Large
+527,images\mobs\2310.gif,2310,Engkan,125,Demi-Human,Neutral 2,Medium
+528,images\mobs\2312.gif,2312,Mangkukul,110,Demon,Neutral 2,Medium
+529,images\mobs\2313.gif,2313,Tikbala,115,Brute,Wind 3,Large
+530,images\mobs\2314.gif,2314,Tiyan,105,Demon,Shadow 2,Small
+531,images\mobs\2315.gif,2315,Wakw,111,Demon,Shadow 2,Small
+532,images\mobs\2316.gif,2316,Jejeli,100,Plant,Earth 2,Large
+533,images\mobs\2353.gif,2353,Nightmare Minoro,121,Brute,Fire 2,Large
+534,images\mobs\2354.gif,2354,Nightmare Mum,117,Undead,Undead 2,Medium
+535,images\mobs\2355.gif,2355,Nightmare Ver,115,Undead,Undead 1,Medium
+536,images\mobs\2356.gif,2356,Nightmare Mim,137,Formless,Neutral 3,Medium
+537,images\mobs\2358.gif,2358,Nightmare Arclou,134,Insect,Earth 2,Medium
+538,images\mobs\2360.gif,2360,Nightmare Ancient Mum,141,Undead,Undead 2,Medium
+539,images\mobs\2362.gif,2362,Nightmare Amon ,145,Demi-Human,Earth 3,Large

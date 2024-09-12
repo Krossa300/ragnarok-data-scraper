@@ -1,0 +1,2 @@
+user=rag_project_user
+password=strongpassword

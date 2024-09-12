@@ -1,0 +1,370 @@
+,image_reference,map_id,map_area
+0,images\maps\hu_fild01.gif,hu_fild01,Entrance to Thanatos Tower
+1,images\maps\hu_fild02.gif,hu_fild02,Hugel Field
+2,images\maps\hu_fild03.gif,hu_fild03,Hugel Field
+3,images\maps\hugel.gif,hugel,"Hugel, the Quaint Garden Village"
+4,images\maps\odin_tem03.gif,odin_tem03,Odin Temple F3
+5,images\maps\ein_fild01.gif,ein_fild01,Einbroch Field
+6,images\maps\yuno_fild05.gif,yuno_fild05,El Mes Plateau
+7,images\maps\yuno_fild06.gif,yuno_fild06,El Mes Plateau
+8,images\maps\hu_fild04.gif,hu_fild04,Hugel Field
+9,images\maps\hu_fild05.gif,hu_fild05,Entrance to The Abyss Lake
+10,images\maps\hu_fild06.gif,hu_fild06,Hugel Field
+11,images\maps\odin_tem01.gif,odin_tem01,Odin Temple F1
+12,images\maps\odin_tem02.gif,odin_tem02,Odin Temple F2
+13,images\maps\ra_fild01.gif,ra_fild01,Audhumbla Grassland
+14,images\maps\ein_fild02.gif,ein_fild02,Einbroch Field
+15,images\maps\yuno_fild04.gif,yuno_fild04,El Mes Plateau
+16,images\maps\yuno_fild03.gif,yuno_fild03,El Mes Plateau
+17,images\maps\yuno_fild02.gif,yuno_fild02,Kiel Hyre's Cottage
+18,images\maps\hu_fild07.gif,hu_fild07,Hugel Field
+19,images\maps\ayo_fild02.gif,ayo_fild02,Ayothaya Field
+20,images\maps\ra_fild02.gif,ra_fild02,Od Canyon
+21,images\maps\ra_fild03.gif,ra_fild03,The Plain of Ida
+22,images\maps\ra_fild04.gif,ra_fild04,Audhumbla Grassland
+23,images\maps\ra_fild05.gif,ra_fild05,Audhumbla Grassland
+24,images\maps\ra_fild06.gif,ra_fild06,Portus Luna
+25,images\maps\ein_fild03.gif,ein_fild03,Einbroch Field
+26,images\maps\ein_fild04.gif,ein_fild04,Einbroch Field
+27,images\maps\ein_fild05.gif,ein_fild05,Einbroch Field
+28,images\maps\ein_fild06.gif,ein_fild06,Einbroch Field
+29,images\maps\yuno_fild07.gif,yuno_fild07,El Mes Gorge (Valley of Abyss)
+30,images\maps\yuno_fild08.gif,yuno_fild08,Kiel Khayr's Academy
+31,images\maps\yuno_fild09.gif,yuno_fild09,Schwaltzwald Guards Camp
+32,images\maps\yuno_fild10.gif,yuno_fild10,Yuno Field
+33,images\maps\ayothaya.gif,ayothaya,Ayothaya
+34,images\maps\ayo_fild01.gif,ayo_fild01,Ayothaya Field
+35,images\maps\ra_fild07.gif,ra_fild07,Od Canyon
+36,images\maps\ra_temple.gif,ra_temple,"Freya Grand Temple, Cheshrumnir"
+37,images\maps\ra_fild08.gif,ra_fild08,The Plain of Ida
+38,images\maps\ra_fild09.gif,ra_fild09,Audhumbla Grassland
+39,images\maps\lhz_fild01.gif,lhz_fild01,Lighthalzen Field
+40,images\maps\lhz_fild02.gif,lhz_fild02,Lighthalzen Field (Grim Reaper's Valley)
+41,images\maps\einbroch.gif,einbroch,"Einbroch, the city of steel"
+42,images\maps\einbech.gif,einbech,"Einbech, the mining village"
+43,images\maps\ein_fild07.gif,ein_fild07,Einbroch Field
+44,images\maps\yuno_fild11.gif,yuno_fild11,Yuno Field
+45,images\maps\yuno_fild12.gif,yuno_fild12,Border Checkpoint
+46,images\maps\yuno_fild01.gif,yuno_fild01,Border Posts
+47,images\maps\ra_fild10.gif,ra_fild10,Od Canyon
+48,images\maps\ra_fild11.gif,ra_fild11,The Plain of Ida
+49,images\maps\rachel.gif,rachel,"Rachel, Capital of Arunafeltz States"
+50,images\maps\ra_fild12.gif,ra_fild12,The Plain of Ida
+51,images\maps\lighthalzen.gif,lighthalzen,"Lightharlzen, the City-State of Prosperity"
+52,images\maps\lhz_fild03.gif,lhz_fild03,Lighthalzen Field
+53,images\maps\ein_fild08.gif,ein_fild08,Einbroch Field
+54,images\maps\ein_fild09.gif,ein_fild09,Einbroch Field
+55,images\maps\ein_fild10.gif,ein_fild10,Einbroch Field
+56,images\maps\alde_gld.gif,alde_gld,Luina the satellite of Al De Baran
+57,images\maps\aldebaran.gif,aldebaran,Al De Baran
+58,images\maps\xmas.gif,xmas,"Lutie, Snow Village"
+59,images\maps\ama_fild01.gif,ama_fild01,Amatsu Field
+60,images\maps\louyang.gif,louyang,"Louyang, the highland"
+61,images\maps\ve_fild01.gif,ve_fild01,Veins Field
+62,images\maps\ve_fild02.gif,ve_fild02,Veins Field
+63,images\maps\ra_fild13.gif,ra_fild13,Shore of Tears
+64,images\maps\mjolnir_12.gif,mjolnir_12,Mt.Mjolnir
+65,images\maps\xmas_fild01.gif,xmas_fild01,Lutie Field
+66,images\maps\amatsu.gif,amatsu,"Amatsu, the Land of Destiny"
+67,images\maps\lou_fild01.gif,lou_fild01,Louyang Field
+68,images\maps\mjolnir_01.gif,mjolnir_01,Mt.Mjolnir
+69,images\maps\mjolnir_02.gif,mjolnir_02,Mt.Mjolnir
+70,images\maps\mjolnir_03.gif,mjolnir_03,Mt.Mjolnir
+71,images\maps\mjolnir_04.gif,mjolnir_04,Mt.Mjolnir
+72,images\maps\mjolnir_05.gif,mjolnir_05,Mt.Mjolnir
+73,images\maps\glast_01.gif,glast_01,Glast Heim
+74,images\maps\gef_fild06.gif,gef_fild06,Geffen Field
+75,images\maps\gef_fild05.gif,gef_fild05,Geffen Field
+76,images\maps\gef_fild04.gif,gef_fild04,Geffen Field
+77,images\maps\mjolnir_06.gif,mjolnir_06,Mt.Mjolnir
+78,images\maps\mjolnir_07.gif,mjolnir_07,Mt.Mjolnir
+79,images\maps\mjolnir_08.gif,mjolnir_08,Mt.Mjolnir
+80,images\maps\mjolnir_10.gif,mjolnir_10,Mt.Mjolnir
+81,images\maps\mjolnir_11.gif,mjolnir_11,Mt.Mjolnir
+82,images\maps\gonryun.gif,gonryun,"Gonryun, the Hermit Land"
+83,images\maps\gef_fild08.gif,gef_fild08,Geffen Field
+84,images\maps\gef_fild07.gif,gef_fild07,Geffen Field
+85,images\maps\geffen.gif,geffen,Geffen
+86,images\maps\gef_fild00.gif,gef_fild00,Geffen Field
+87,images\maps\prt_fild00.gif,prt_fild00,Prontera Field
+88,images\maps\mjolnir_09.gif,mjolnir_09,Mt.Mjolnir
+89,images\maps\prt_fild01.gif,prt_fild01,Prontera Field
+90,images\maps\prt_fild02.gif,prt_fild02,Prontera Field
+91,images\maps\prt_fild03.gif,prt_fild03,Prontera Field
+92,images\maps\prt_monk.gif,prt_monk,St. Capitolina Abbey
+93,images\maps\gon_fild01.gif,gon_fild01,Gonryun Field
+94,images\maps\gef_fild12.gif,gef_fild12,Kordt Forest
+95,images\maps\gef_fild13.gif,gef_fild13,Britoniah
+96,images\maps\gef_fild09.gif,gef_fild09,Geffen Field
+97,images\maps\gef_fild01.gif,gef_fild01,Geffen Field
+98,images\maps\prt_fild04.gif,prt_fild04,Prontera Field
+99,images\maps\prt_fild05.gif,prt_fild05,Prontera Field
+100,images\maps\prontera.gif,prontera,"Prontera City, Capitol of Rune-Midgart"
+101,images\maps\prt_fild06.gif,prt_fild06,Prontera Field
+102,images\maps\gef_fild14.gif,gef_fild14,West Orc Village
+103,images\maps\gef_fild10.gif,gef_fild10,Geffen Field
+104,images\maps\gef_fild03.gif,gef_fild03,Geffen Field
+105,images\maps\gef_fild02.gif,gef_fild02,Geffen Field
+106,images\maps\prt_fild07.gif,prt_fild07,Prontera Field
+107,images\maps\prt_fild08.gif,prt_fild08,Prontera Field
+108,images\maps\izlude.gif,izlude,Izlude Town
+109,images\maps\izlu2dun.gif,izlu2dun,Byalan Island
+110,images\maps\gef_fild11.gif,gef_fild11,Geffen Field
+111,images\maps\prt_fild11.gif,prt_fild11,Prontera Field
+112,images\maps\prt_fild10.gif,prt_fild10,Prontera Field
+113,images\maps\prt_fild09.gif,prt_fild09,Prontera Field
+114,images\maps\moc_fild01.gif,moc_fild01,Sograt Desert
+115,images\maps\pay_fild04.gif,pay_fild04,Sograt Desert
+116,images\maps\pay_arche.gif,pay_arche,Archer Village
+117,images\maps\moc_fild02.gif,moc_fild02,Sograt Desert
+118,images\maps\pay_gld.gif,pay_gld,Greenwood Lake
+119,images\maps\payon.gif,payon,Payon Town
+120,images\maps\pay_fild08.gif,pay_fild08,Payon Forest
+121,images\maps\pay_fild09.gif,pay_fild09,Payon Forest
+122,images\maps\moc_fild20.gif,moc_fild20,Sograt Desert - Continental Guard Quarantine
+123,images\maps\moc_fild13.gif,moc_fild13,Sograt Desert
+124,images\maps\moc_fild03.gif,moc_fild03,Sograt Desert
+125,images\maps\pay_fild01.gif,pay_fild01,Payon Forest
+126,images\maps\pay_fild07.gif,pay_fild07,Payon Forest
+127,images\maps\pay_fild10.gif,pay_fild10,Payon Forest
+128,images\maps\pay_fild11.gif,pay_fild11,Payon Forest
+129,images\maps\pay_fild02.gif,pay_fild02,Payon Forest
+130,images\maps\pay_fild03.gif,pay_fild03,Payon Forest
+131,images\maps\moc_fild16.gif,moc_fild16,Sograt Desert
+132,images\maps\pay_fild05.gif,pay_fild05,Payon Forest
+133,images\maps\pay_fild06.gif,pay_fild06,Payon Forest
+134,images\maps\alberta.gif,alberta,Alberta
+135,images\maps\alb2trea.gif,alb2trea,Alberta Island
+136,images\maps\dew_fild01.gif,dew_fild01,Dewata Field (Tribal Village)
+137,images\maps\dewata.gif,dewata,Dewata
+138,images\maps\tur_dun01.gif,tur_dun01,Turtle Island
+139,images\maps\moscovia.gif,moscovia,Moscovia
+140,images\maps\moc_ruins.gif,moc_ruins,Morroc Ruins
+141,images\maps\moc_fild07.gif,moc_fild07,Sograt Desert
+142,images\maps\cmd_fild01.gif,cmd_fild01,Papuchicha Forest
+143,images\maps\cmd_fild03.gif,cmd_fild03,Zenhai Marsh
+144,images\maps\cmd_fild05.gif,cmd_fild05,Border of Papuchica forest
+145,images\maps\moc_fild19.gif,moc_fild19,Sograt Desert
+146,images\maps\morocc.gif,morocc,Morroc Town
+147,images\maps\cmd_fild02.gif,cmd_fild02,Kokomo beach
+148,images\maps\cmd_fild04.gif,cmd_fild04,Kokomo beach
+149,images\maps\cmd_fild06.gif,cmd_fild06,Fortress Saint Darmain (West)
+150,images\maps\cmd_fild08.gif,cmd_fild08,Fortress Saint Darmain (East)
+151,images\maps\moc_fild12.gif,moc_fild12,Sograt Desert
+152,images\maps\moc_fild11.gif,moc_fild11,Sograt Desert
+153,images\maps\jawaii.gif,jawaii,"Jawaii, the Honeymoon Island"
+154,images\maps\cmd_fild07.gif,cmd_fild07,"Beacon Island, Pharos"
+155,images\maps\cmd_fild09.gif,cmd_fild09,Fortress Saint Darmain (South)
+156,images\maps\moc_fild18.gif,moc_fild18,Sograt Desert
+157,images\maps\moc_fild17.gif,moc_fild17,Sograt Desert
+158,images\maps\bra_fild01.gif,bra_fild01,Brasilis Field
+159,images\maps\ma_fild02.gif,ma_fild02,Forest
+160,images\maps\brasilis.gif,brasilis,Brasilis
+161,images\maps\malaya.gif,malaya,Port Malaya
+162,images\maps\ma_fild01.gif,ma_fild01,Baryo Mahiwaga
+163,images\maps\nif_fild01.gif,nif_fild01,"Skellington, a Solitary Village in Nifflheim"
+164,images\maps\nif_fild02.gif,nif_fild02,Vally of Gyoll
+165,images\maps\niflheim.gif,niflheim,"Nifflheim, Realm of the Dead"
+166,images\maps\yggdrasil01.gif,yggdrasil01,Hvergelmir's Fountain (Trunk of Yggdrasil)
+167,images\maps\um_dun02.gif,um_dun02,Passage to a Foreign World
+168,images\maps\um_dun01.gif,um_dun01,Carpenter's Shop in the Tree
+169,images\maps\umbala.gif,umbala,"Wootan Tribe's Village, Umbala"
+170,images\maps\um_fild04.gif,um_fild04,Hoomga Jungle
+171,images\maps\beach_dun2.gif,beach_dun2,Ruande the northern cave
+172,images\maps\um_fild01.gif,um_fild01,Luluka Forest
+173,images\maps\um_fild02.gif,um_fild02,Hoomga Forest
+174,images\maps\um_fild03.gif,um_fild03,Kalala Swamp
+175,images\maps\beach_dun.gif,beach_dun,"Karu, the West cave"
+176,images\maps\comodo.gif,comodo,"Beach town, Comodo"
+177,images\maps\beach_dun3.gif,beach_dun3,"Mao, the East Cave"
+178,images\maps\sch_gld.gif,sch_gld,Schwaltzvalt Guild Map
+179,images\maps\yuno.gif,yuno,"Yuno, the capital of Schwarzwald Republic"
+180,images\maps\ve_fild03.gif,ve_fild03,Veins Field
+181,images\maps\ve_fild04.gif,ve_fild04,Veins Field
+182,images\maps\aru_gld.gif,aru_gld,Arunafeltz Guild
+183,images\maps\ve_fild05.gif,ve_fild05,Veins Field
+184,images\maps\veins.gif,veins,"Veins, the Canyon Village"
+185,images\maps\ve_fild07.gif,ve_fild07,Veins Field
+186,images\maps\nameless_n.gif,nameless_n,Nameless Island
+187,images\maps\abyss_01.gif,abyss_01,Abyss Lakes Underground Cave F1
+188,images\maps\abyss_02.gif,abyss_02,Abyss Lakes Underground Cave F2
+189,images\maps\abyss_03.gif,abyss_03,Abyss Lakes Underground Cave F3
+190,images\maps\abyss_04.gif,abyss_04,Abyss Lake Underground Cave F4
+191,images\maps\ama_dun01.gif,ama_dun01,Tatami Maze
+192,images\maps\ama_dun02.gif,ama_dun02,Battle Field in the Underground Forest
+193,images\maps\ama_dun03.gif,ama_dun03,Amatsu Underground Shrine
+194,images\maps\anthell01.gif,anthell01,Ant Hell F1
+195,images\maps\anthell02.gif,anthell02,Ant Hell F2
+196,images\maps\arug_dun01.gif,arug_dun01,Arunafeltz Guild Dungeon
+197,images\maps\ayo_dun01.gif,ayo_dun01,Ancient Shrine Maze
+198,images\maps\ayo_dun02.gif,ayo_dun02,Inside Ancient Shrine
+199,images\maps\lhz_dun01.gif,lhz_dun01,Bio Laboratory F1
+200,images\maps\lhz_dun02.gif,lhz_dun02,Bio Laboratory F2
+201,images\maps\lhz_dun03.gif,lhz_dun03,Bio Laboratory F3
+202,images\maps\lhz_dun04.gif,lhz_dun04,Bio Laboratory F4
+203,images\maps\que_lhz.gif,que_lhz,Human Experimentation Laboratory F4
+204,images\maps\bossnia_01.gif,bossnia_01,Bossnia
+205,images\maps\bossnia_02.gif,bossnia_02,Bossnia
+206,images\maps\bossnia_03.gif,bossnia_03,Bossnia
+207,images\maps\bossnia_04.gif,bossnia_04,Bossnia
+208,images\maps\bra_dun01.gif,bra_dun01,"Brasilis Dungeon F1, Beyond the Waterfall"
+209,images\maps\bra_dun02.gif,bra_dun02,"Brasilis Dungeon F2, Beyond the Waterfall"
+210,images\maps\iz_dun00.gif,iz_dun00,Undersea Tunnel F1
+211,images\maps\iz_dun01.gif,iz_dun01,Undersea Tunnel F2
+212,images\maps\iz_dun02.gif,iz_dun02,Undersea Tunnel F3
+213,images\maps\iz_dun03.gif,iz_dun03,Undersea Tunnel F4
+214,images\maps\iz_dun04.gif,iz_dun04,Undersea Tunnel F5
+215,images\maps\iz_dun05.gif,iz_dun05,Undersea Tunnel F6
+216,images\maps\c_tower1.gif,c_tower1,Clock Tower 1F
+217,images\maps\c_tower2.gif,c_tower2,Clock Tower 2F
+218,images\maps\c_tower3.gif,c_tower3,Clock Tower 3F
+219,images\maps\c_tower4.gif,c_tower4,Clock Tower 4F
+220,images\maps\alde_dun01.gif,alde_dun01,Clock Tower B1
+221,images\maps\alde_dun02.gif,alde_dun02,Clock Tower B2
+222,images\maps\alde_dun03.gif,alde_dun03,Clock Tower B3
+223,images\maps\alde_dun04.gif,alde_dun04,Clock Tower B4
+224,images\maps\c_tower2_.gif,c_tower2_,Clock Tower of Twisted Time 2F
+225,images\maps\c_tower3_.gif,c_tower3_,Clock Tower of Twisted Time 3F
+226,images\maps\clock_01.gif,clock_01,Clock Tower: Unknown Basement
+227,images\maps\mjo_dun01.gif,mjo_dun01,Mjolnir Dead Pit F1
+228,images\maps\mjo_dun02.gif,mjo_dun02,Mjolnir Dead Pit F2
+229,images\maps\mjo_dun03.gif,mjo_dun03,Mjolnir Dead Pit F3
+230,images\maps\dew_dun01.gif,dew_dun01,"Dewata Dungeon 01, Volcanic Island of Krakatoa"
+231,images\maps\dew_dun02.gif,dew_dun02,"Dewata Dungeon 02, Tina Grace Cave"
+232,images\maps\ein_dun01.gif,ein_dun01,Einbroch Mine Dungeon 1F
+233,images\maps\ein_dun02.gif,ein_dun02,Einbroch Mine Dungeon 2F
+234,images\maps\ein_dun03.gif,ein_dun03,Einbech Mine Dungeon 3F
+235,images\maps\gef_dun00.gif,gef_dun00,Geffen Dungeon F1
+236,images\maps\gef_dun01.gif,gef_dun01,Geffen Dungeon F2
+237,images\maps\gef_dun02.gif,gef_dun02,Geffen Dungeon F3
+238,images\maps\gef_dun03.gif,gef_dun03,Geffen Dungeon F4
+239,images\maps\gefenia01.gif,gefenia01,Geffenia
+240,images\maps\gefenia02.gif,gefenia02,Geffenia
+241,images\maps\gefenia03.gif,gefenia03,Geffenia
+242,images\maps\gefenia04.gif,gefenia04,Geffenia
+243,images\maps\gl_church.gif,gl_church,Glast Heim St.Abbey
+244,images\maps\gl_chyard.gif,gl_chyard,Glast Heim Churchyard
+245,images\maps\gl_cas01.gif,gl_cas01,Glast Heim 1F
+246,images\maps\gl_cas02.gif,gl_cas02,Glast Heim 2F
+247,images\maps\gl_prison.gif,gl_prison,Glast Heim Underprison
+248,images\maps\gl_prison1.gif,gl_prison1,Glast Heim Underprison
+249,images\maps\gl_knt01.gif,gl_knt01,Inside Glast Heim Chivalry F1
+250,images\maps\gl_knt02.gif,gl_knt02,Inside Glast Heim Chivalry F2
+251,images\maps\gl_in01.gif,gl_in01,Inside Glast Heim
+252,images\maps\gl_step.gif,gl_step,Glast Heim Staircase Dungeon
+253,images\maps\gl_sew01.gif,gl_sew01,Glast Heim Culvert F1
+254,images\maps\gl_sew02.gif,gl_sew02,Glast Heim Culvert F2
+255,images\maps\gl_sew03.gif,gl_sew03,Glast Heim Culvert F3
+256,images\maps\gl_sew04.gif,gl_sew04,Glast Heim Culvert F4
+257,images\maps\gl_dun01.gif,gl_dun01,The Lowest Cave in Glast Heim F1
+258,images\maps\gl_dun02.gif,gl_dun02,The Lowest Cave in Glast Heim F2
+259,images\maps\gl_cas02_.gif,gl_cas02_,2nd Hall
+260,images\maps\gl_chyard_.gif,gl_chyard_,Churchyard
+261,images\maps\gl_cas01_.gif,gl_cas01_,Glast Heim Abyss 1F
+262,images\maps\gon_dun01.gif,gon_dun01,Shrine of Gonryun Queen
+263,images\maps\gon_dun02.gif,gon_dun02,Hermit's Checkers
+264,images\maps\gon_dun03.gif,gon_dun03,Arcadia
+265,images\maps\gld_dun02.gif,gld_dun02,Luina Guild Dungeon F1
+266,images\maps\gld_dun02_2.gif,gld_dun02_2,Luina Guild Dungeon F2
+267,images\maps\gld2_ald.gif,gld2_ald,Hall of the Abyss : Tear of Hero
+268,images\maps\gld_dun04.gif,gld_dun04,Britoniah Guild Dungeon F1
+269,images\maps\gld_dun04_2.gif,gld_dun04_2,Britoniah Guild Dungeon F2
+270,images\maps\gld2_gef.gif,gld2_gef,Hall of the Abyss : Hill of death
+271,images\maps\gld_dun01.gif,gld_dun01,Greenwood Lake Guild Dungeon F1
+272,images\maps\gld_dun01_2.gif,gld_dun01_2,Greenwood Lake Guild Dungeon F2
+273,images\maps\gld2_pay.gif,gld2_pay,Hall of the Abyss : Wind of beginning
+274,images\maps\gld_dun03.gif,gld_dun03,Valkyrie Guild Dungeon F1
+275,images\maps\gld_dun03_2.gif,gld_dun03_2,Valkyrie Guild Dungeon F2
+276,images\maps\gld2_prt.gif,gld2_prt,Hall of the Abyss : Warrior road
+277,images\maps\prt_maze01.gif,prt_maze01,Labyrinth Forest F1
+278,images\maps\prt_maze02.gif,prt_maze02,Labyrinth Forest F2
+279,images\maps\prt_maze03.gif,prt_maze03,Labyrinth Forest F3
+280,images\maps\ice_dun01.gif,ice_dun01,Ice Cave F1
+281,images\maps\ice_dun02.gif,ice_dun02,Ice Cave F2
+282,images\maps\ice_dun03.gif,ice_dun03,Ice Cave F3
+283,images\maps\ice_dun04.gif,ice_dun04,Ice Cave F4
+284,images\maps\juperos_01.gif,juperos_01,Juperos Ruins F1
+285,images\maps\juperos_02.gif,juperos_02,Juperos Ruins F2
+286,images\maps\jupe_core.gif,jupe_core,Juperos Core
+287,images\maps\kh_dun01.gif,kh_dun01,Robot Factory Level 1
+288,images\maps\kh_dun02.gif,kh_dun02,Robot Factory Level 2
+289,images\maps\lou_dun01.gif,lou_dun01,The Royal Tomb
+290,images\maps\lou_dun02.gif,lou_dun02,Inside the Royal Tomb
+291,images\maps\lou_dun03.gif,lou_dun03,Suei Long Gon
+292,images\maps\mag_dun01.gif,mag_dun01,Nogg Road F1
+293,images\maps\mag_dun02.gif,mag_dun02,Nogg Road F2
+294,images\maps\mag_dun03.gif,mag_dun03,Nogg Road F3
+295,images\maps\mal_dun01.gif,mal_dun01,Starry Coral Area
+296,images\maps\mosk_dun01.gif,mosk_dun01,Les Forest
+297,images\maps\mosk_dun02.gif,mosk_dun02,Temny Forest
+298,images\maps\mosk_dun03.gif,mosk_dun03,Dremuci Forest
+299,images\maps\nameless_i.gif,nameless_i,Nameless Island
+300,images\maps\nameless_in.gif,nameless_in,Inside Nameless Island
+301,images\maps\abbey01.gif,abbey01,Cursed Monastery F1
+302,images\maps\abbey02.gif,abbey02,Cursed Monastery F2
+303,images\maps\abbey03.gif,abbey03,Cursed Monastery F3
+304,images\maps\nyd_dun01.gif,nyd_dun01,Nidhogg's Dungeon Lv 1 (Yggdrasil Root)
+305,images\maps\nyd_dun02.gif,nyd_dun02,Nidhogg's Dungeon Lv 2 (Yggdrasil Root)
+306,images\maps\odin_past.gif,odin_past,Ancient Odin Temple
+307,images\maps\orcsdun01.gif,orcsdun01,Orc Dungeon F1
+308,images\maps\orcsdun02.gif,orcsdun02,Orc Dungeon F2
+309,images\maps\pay_dun00.gif,pay_dun00,Payon Cave F1
+310,images\maps\pay_dun01.gif,pay_dun01,Payon Cave F2
+311,images\maps\pay_dun02.gif,pay_dun02,Payon Cave F3
+312,images\maps\pay_dun03.gif,pay_dun03,Payon Cave F4
+313,images\maps\pay_dun04.gif,pay_dun04,Payon Cave F5
+314,images\maps\prt_sewb1.gif,prt_sewb1,Prontera Culvert F1
+315,images\maps\prt_sewb2.gif,prt_sewb2,Prontera Culvert F2
+316,images\maps\prt_sewb3.gif,prt_sewb3,Prontera Culvert F3
+317,images\maps\prt_sewb4.gif,prt_sewb4,Prontera Culvert F4
+318,images\maps\moc_pryd01.gif,moc_pryd01,Inside Pyramid F1
+319,images\maps\moc_pryd02.gif,moc_pryd02,Inside Pyramid F2
+320,images\maps\moc_pryd03.gif,moc_pryd03,Inside Pyramid F3
+321,images\maps\moc_pryd04.gif,moc_pryd04,Inside Pyramid F4
+322,images\maps\moc_prydb1.gif,moc_prydb1,Thief Guild
+323,images\maps\moc_pryd05.gif,moc_pryd05,Inside Pyramid B1
+324,images\maps\moc_pryd06.gif,moc_pryd06,Inside Pyramid B2
+325,images\maps\moc_prydn1.gif,moc_prydn1,Morocc Pyramid Underground 1F - Challenge
+326,images\maps\moc_prydn2.gif,moc_prydn2,Morocc Pyramid Underground 2F- Challenge
+327,images\maps\ra_temin.gif,ra_temin,Inside Freya's Grand Temple
+328,images\maps\ra_san01.gif,ra_san01,Holy Ground F1
+329,images\maps\ra_san02.gif,ra_san02,Holy Ground F2
+330,images\maps\ra_san03.gif,ra_san03,Holy Ground F3
+331,images\maps\ra_san04.gif,ra_san04,Holy Ground F4
+332,images\maps\ra_san05.gif,ra_san05,Holy Ground F5
+333,images\maps\dic_dun01.gif,dic_dun01,"Scaraba Hole 01, Kamidal Tunnel"
+334,images\maps\dic_dun02.gif,dic_dun02,"Scaraba Hole 02, Scaraba Hall"
+335,images\maps\dic_dun03.gif,dic_dun03,Skarava hall
+336,images\maps\schg_dun01.gif,schg_dun01,Schwartzvald Guild Dungeon
+337,images\maps\in_sphinx1.gif,in_sphinx1,Sphinx F1
+338,images\maps\in_sphinx2.gif,in_sphinx2,Sphinx F2
+339,images\maps\in_sphinx3.gif,in_sphinx3,Sphinx F3
+340,images\maps\in_sphinx4.gif,in_sphinx4,Sphinx F4
+341,images\maps\in_sphinx5.gif,in_sphinx5,Sphinx F5
+342,images\maps\treasure01.gif,treasure01,Sunken Ship F1
+343,images\maps\treasure02.gif,treasure02,Sunken Ship F2
+344,images\maps\tha_scene01.gif,tha_scene01,Thanatos Tower Entrance
+345,images\maps\tha_t01.gif,tha_t01,Thanatos Tower F1
+346,images\maps\tha_t02.gif,tha_t02,Thanatos Tower F2
+347,images\maps\tha_t03.gif,tha_t03,Thanatos Tower F3
+348,images\maps\tha_t04.gif,tha_t04,Thanatos Tower F4
+349,images\maps\tha_t05.gif,tha_t05,Thanatos Tower F5
+350,images\maps\tha_t06.gif,tha_t06,Thanatos Tower F6
+351,images\maps\tha_t07.gif,tha_t07,Thanatos Tower F7
+352,images\maps\tha_t08.gif,tha_t08,Thanatos Tower F8
+353,images\maps\tha_t09.gif,tha_t09,Thanatos Tower F9
+354,images\maps\tha_t10.gif,tha_t10,Thanatos Tower F10
+355,images\maps\tha_t11.gif,tha_t11,Thanatos Tower F11
+356,images\maps\tha_t12.gif,tha_t12,Thanatos Tower F12
+357,images\maps\thana_step.gif,thana_step,Thanatos Tower Staircase
+358,images\maps\thana_boss.gif,thana_boss,The top of The Thanatos Tower
+359,images\maps\thor_v01.gif,thor_v01,Thors Volcano Dungeon F1
+360,images\maps\thor_v02.gif,thor_v02,Thors Volcano Dungeon F2
+361,images\maps\thor_camp.gif,thor_camp,Thor Volcano Camp
+362,images\maps\thor_v03.gif,thor_v03,Thors Volcano Dungeon F3
+363,images\maps\que_thor.gif,que_thor,Thor Volcano Dungeon
+364,images\maps\xmas_dun01.gif,xmas_dun01,Toy Factory Warehouse
+365,images\maps\xmas_dun02.gif,xmas_dun02,Toy Monitoring Room
+366,images\maps\tur_dun02.gif,tur_dun02,Turtle Island Dungeon
+367,images\maps\tur_dun03.gif,tur_dun03,Good Turtles Village
+368,images\maps\tur_dun04.gif,tur_dun04,Turtle Palace
